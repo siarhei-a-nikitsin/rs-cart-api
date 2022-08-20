@@ -1,0 +1,15 @@
+# Compiled output
+dist
+node_modules
+
+# Files, folders are not required for working application (for development purposes only)
+.git
+.vscode
+test
+.eslintrc.js
+.gitignore
+.npmrc
+.prettierc
+README.md
+Dockerfile
+.dockerignore
